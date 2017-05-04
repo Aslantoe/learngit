@@ -1,2 +1,3 @@
-Git is a districted version control system.
+Git is a  version control system.
 Git is free software.
+My name is jack.
