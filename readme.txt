@@ -6,4 +6,5 @@ Beijing.
 I love Shanghai.
 Create a new branch is quck.
 Create a new branch is quick and simple.
+add merge
 
